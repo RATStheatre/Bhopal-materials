@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Script
+* [Script](script/README.md)
 
