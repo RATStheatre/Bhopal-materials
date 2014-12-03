@@ -9,3 +9,4 @@
    * [Scene 5 : Olympic Aspirations](1script/scen51.md)
    * [Scene 6 : Rabid Optimists](1script/scen61.md)
 * [Director's Notes](2notes/README.md)
+* [Credits](credits/README.md)
