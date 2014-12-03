@@ -1,0 +1,11 @@
+# About The Play
+
+The play was written as a way to education and engage audiences about an important chapter in Indian history. Through in-depth primary and secondary research, the play gives audiences a look at the disaster beyond the headlines. According to Sudhir Selvaraj, the playwright, "_Often we feel content in knowing about the facts of a tragedy. We feel like we know the whole event. This play takes you beyond that to hear directly from what has happened in the past thirty years in Bhopal._"
+
+The play focuses on five pivotal events in the thirty year long struggle and is told by those involved in these occasions. It analyses  what  happened  on  that  night  and the repercussions  that  continue  till today. Exploring  topics  of environmental damage, the role of civil society, and corporate irresponsibility, the play is constructed  based  on  first hand  accounts  from  survivors,  activists  and corporate executives
+
+Conscious of the fact that a majority of Indians were born after the disaster occured, the play is primarily devised to target young people who consist of a majority of our audiences. The unique aspect of the performances is a discussion that follows each performance where audiences are also challenged to think about what other calamities that are in the making. As such this play serves as a bridge between the past and the present.
+
+Selvaraj has travelled extensively around the world leading workshops and hosting readings of this play. After successful theatrical readings in King's College London, Concordia College,Minnesota and the National Centre for Biological Sciences, Bangalore among others, this will be the fourteenth and final performance of the production in this season.
+
+The performances are a product of workshops held with participants. Participants are not professional actors, rather are community members who are trained by the Renegade Arts and Theatre Society to become facilitators to use theatre as a means to spark conversation in their community. 
