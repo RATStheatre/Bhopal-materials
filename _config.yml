@@ -9,43 +9,64 @@ description: "Write an awesome description for your new site here. You can edit 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: fed136
-  secondary: fec503  
+  secondary: fec503
   secondary-dark: 333
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Maliha Ibrahim
+  gravatar: "http://www.gravatar.com/avatar/44e17af10b8b7d65e2aa493baa03e4b0"
+  position: Production Manager
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: google-plus
+      url: https://plus.google.com/u/0/112222800327559923605/
+    - title: wordpress
+      url: http://virtuoso89.blogspot.com/
+
+- name: Sudhir Selvaraj
+  gravatar: "http://www.gravatar.com/avatar/79527ca98cca35d78dd19e7f6d85190e"
+  position: Playwright and Author
+  social:
+    - title: twitter
+      url: https://twitter.com/SudhirSelvaraj/
+    - title: wordpress
+      url: http://theselvarajminute.blogspot.com/
+
+- name: Tanisha Christo
+  gravatar: "http://www.gravatar.com/avatar/283dd0c8d83982d2b5592572025382a2"
+  position: Lead Designer and Photographer
+  social:
+    - title: behance
+      url: http://issuu.com/tanisha.christo/
+    - title: wordpress
+      url: http://fudge-together.blogspot.com/
+
+- name: Deepu Philip
+  gravatar: "http://www.gravatar.com/avatar/8cbc07784f08f9dadc84b7f41d96f33a"
+  position: "Light Design and Technical Lead"
+  social:
+    - title: google-plus
+      url: https://plus.google.com/u/0/+DeepuTPhilip/
+    - title: github
+      url: https://github.com/deepu-tp/
+
+- name: Joe Perez
+  gravatar: "http://www.gravatar.com/avatar/75b1ac439637bcb535142d76ec5320af"
+  position: Crew Lead
+  social:
+    - title: google-plus
+      url: https://plus.google.com/100930853009431108769/
+    - title: facebook
       url: #
+
+- name: Joel Louzado
+  gravatar: "http://www.gravatar.com/avatar/b9a761f782cbf731db06df91b849b33e"
+  position: Lead Developer and Social Media Manager
+  social:
+    - title: twitter
+      url: https://twitter.com/jlouzado/
+    - title: github
+      url: https://github.com/jLouzado/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -58,8 +79,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: "33, 1st Cross, Vivekanada Nagar"
+  - line: "Bangalore, India - 560033"
 
 # Build settings
 markdown: kramdown
