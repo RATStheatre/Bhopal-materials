@@ -16,7 +16,7 @@ color:
 people:
 - name: Maliha Ibrahim
   gravatar: "http://www.gravatar.com/avatar/44e17af10b8b7d65e2aa493baa03e4b0"
-  position: Production Manager
+  position: Stage and Production Coordinator
   social:
     - title: google-plus
       url: https://plus.google.com/u/0/112222800327559923605/
@@ -25,10 +25,10 @@ people:
 
 - name: Sudhir Selvaraj
   gravatar: "http://www.gravatar.com/avatar/79527ca98cca35d78dd19e7f6d85190e"
-  position: Playwright and Author
+  position: Writer and Production Coordinator
   social:
-    - title: twitter
-      url: https://twitter.com/SudhirSelvaraj/
+    - title: facebook
+      url: https://www.facebook.com/sudhir.selvaraj
     - title: wordpress
       url: http://theselvarajminute.blogspot.com/
 
@@ -52,7 +52,7 @@ people:
 
 - name: Joe Perez
   gravatar: "http://www.gravatar.com/avatar/75b1ac439637bcb535142d76ec5320af"
-  position: Crew Lead
+  position: Logistics Head
   social:
     - title: google-plus
       url: https://plus.google.com/100930853009431108769/
