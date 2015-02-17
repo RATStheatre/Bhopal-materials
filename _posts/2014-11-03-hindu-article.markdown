@@ -1,7 +1,7 @@
 ---
 title: A Tragedy Revisited
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2014-11-03
 img: article2.png
 thumbnail: article2-thumbnail.jpg
