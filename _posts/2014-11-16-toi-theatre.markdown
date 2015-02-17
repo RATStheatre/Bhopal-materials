@@ -1,5 +1,5 @@
 ---
-title: Talking about Bhopal and Beyond
+title: Bhopal and Beyond
 layout: default
 modal-id: 3
 date: 2014-11-16
