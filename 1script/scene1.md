@@ -49,7 +49,8 @@ I am Sarah, an American born on the other side of the globe in a little town in 
 Earlier that night, my sons returned from a film, complaining that their eyes were burning. I told them, “go to sleep. It would be all better in the morning” (Laughs quietly to herself).
 In the middle of the night, I heard someone shouting “Bhaag! Bhaag!”. The room where all six members of my family slept was slowly filling with a white gas. Our eyes started burning and tearing; our noses and mouths started watering. We rushed out of our home, having no time to fully clothe ourselves, not even to put our slippers on!
 We kept running  despite the immense pain. The pale moonlight felt like needles piercing our eyes. We knew that if we fell, we would be trampled and not get up again.
-Satinath Sarangi
+
+**Satinath Sarangi:**
 The magnitude of the disaster hit me only when I arrived the next day. Where do you start? What do you do? It was unfathomable. I was helpless. Just outside the railway station I was shocked to see dozens of people walking a few steps and then falling down. As I walked a little further, I saw people huddled in small groups. They just sat there; crying and groaning in misery.
 
 **Champadevi Shukla:**  
