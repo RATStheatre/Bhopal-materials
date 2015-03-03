@@ -27,10 +27,10 @@ people:
   gravatar: "http://www.gravatar.com/avatar/79527ca98cca35d78dd19e7f6d85190e"
   position: Writer and Production Coordinator
   social:
-    - title: facebook
-      url: https://www.facebook.com/sudhir.selvaraj
-    - title: wordpress
-      url: http://theselvarajminute.blogspot.com/
+    - title: linkedin
+      url: https://www.linkedin.com/pub/sudhir-selvaraj/34/a92/274
+    - title: instagram
+      url: https://instagram.com/sudselvaraj
 
 - name: Tanisha Christo
   gravatar: "http://www.gravatar.com/avatar/283dd0c8d83982d2b5592572025382a2"
@@ -49,15 +49,6 @@ people:
       url: https://plus.google.com/u/0/+DeepuTPhilip/
     - title: github
       url: https://github.com/deepu-tp/
-
-- name: Joe Perez
-  gravatar: "http://www.gravatar.com/avatar/75b1ac439637bcb535142d76ec5320af"
-  position: Logistics Head
-  social:
-    - title: google-plus
-      url: https://plus.google.com/100930853009431108769/
-    - title: facebook
-      url: #
 
 - name: Joel Louzado
   gravatar: "http://www.gravatar.com/avatar/b9a761f782cbf731db06df91b849b33e"
