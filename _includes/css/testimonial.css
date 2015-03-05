@@ -1,0 +1,71 @@
+#testimonials .testimonial-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
+#testimonials .testimonial-item .testimonial-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+#testimonials .testimonial-item .testimonial-link .testimonial-hover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba({{ site.color.primary | hex_to_rgb | join: ',' }}, .9);
+}
+
+#testimonials .testimonial-item .testimonial-link .testimonial-hover:hover {
+    opacity: 1;
+}
+
+#testimonials .testimonial-item .testimonial-link .testimonial-hover .testimonial-hover-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 20px;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+#testimonials .testimonial-item .testimonial-link .testimonial-hover .testimonial-hover-content i {
+    margin-top: -12px;
+}
+
+#testimonials .testimonial-item .testimonial-link .testimonial-hover .testimonial-hover-content h3,
+#testimonials .testimonial-item .testimonial-link .testimonial-hover .testimonial-hover-content h4 {
+    margin: 0;
+}
+
+#testimonials .testimonial-item .testimonial-caption {
+    margin: 0 auto;
+    padding: 25px;
+    max-width: 400px;
+    text-align: center;
+    background-color: #fff;
+}
+
+#testimonials .testimonial-item .testimonial-caption h4 {
+    margin: 0;
+    text-transform: none;
+}
+
+#testimonials .testimonial-item .testimonial-caption p {
+    margin: 0;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
+}
+
+#testimonials * {
+    z-index: 2;
+}

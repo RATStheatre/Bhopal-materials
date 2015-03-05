@@ -1,12 +1,13 @@
 ---
-title: Manu Varkey
-subtitle: Sathinath Sarangi
+actor: Manu Varkey
+character: Sathinath Sarangi
+location: Bangalore
 layout: default
 categories: testimony
-modal-id: 6
+modal-id: 1
 date: 2015-02-15
 img: manu.png
-thumbnail: article6-thumbnail.jpg
+thumbnail: manu-thumbnail.jpg
 alt: image-alt
 link: http://renegadeartsandtheatre.blogspot.in/2015/02/experiences-from-bhopal-manu-varkey.html
 ---
