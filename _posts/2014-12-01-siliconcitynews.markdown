@@ -2,6 +2,7 @@
 
 title: Press Conference Interview
 layout: default
+categories: media
 modal-id: 7
 date: 2014-12-01
 img:

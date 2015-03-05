@@ -1,6 +1,7 @@
 ---
 title: A Tragedy Revisited
 layout: default
+categories: media
 modal-id: 2
 date: 2014-11-03
 img: article2.png

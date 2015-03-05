@@ -1,6 +1,7 @@
 ---
 title: Explore Real Story of Bhopal
 layout: default
+categories: media
 modal-id: 5
 date: 2014-06-17
 img: article5.png

@@ -1,6 +1,7 @@
 ---
 title: Play Engages in Live Debate
 layout: default
+categories: media
 modal-id: 4
 date: 2014-12-03
 img: article4.png

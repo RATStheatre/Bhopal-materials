@@ -1,6 +1,7 @@
 ---
 title: Bhopal and Beyond
 layout: default
+categories: media
 modal-id: 3
 date: 2014-11-16
 img: article3.png

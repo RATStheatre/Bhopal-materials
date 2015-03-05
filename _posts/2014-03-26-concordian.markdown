@@ -1,6 +1,7 @@
 ---
 title: Social Justice Play at Concordia
 layout: default
+categories: media
 modal-id: 6
 date: 2014-03-26
 img: article6.png

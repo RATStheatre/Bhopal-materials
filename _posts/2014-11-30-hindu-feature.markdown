@@ -1,6 +1,7 @@
 ---
 title: The Scene Is Set
 layout: default
+categories: media
 modal-id: 1
 date: 2014-11-30 
 img: article1.png
