@@ -1,5 +1,5 @@
 ---
-actor: William De Oliveira
+actor: William
 character: Andrew Liveris
 location: London
 layout: default

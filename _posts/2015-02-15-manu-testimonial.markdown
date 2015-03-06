@@ -1,5 +1,5 @@
 ---
-actor: Manu Varkey
+actor: Manu
 character: Sathinath Sarangi
 location: Bangalore
 layout: default

@@ -1,5 +1,5 @@
 ---
-actor: Jon Heggestad
+actor: Jon
 character: Michael Parker
 location: London
 layout: default
