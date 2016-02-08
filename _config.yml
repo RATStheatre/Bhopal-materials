@@ -14,6 +14,22 @@ color:
 
 # Team names, titles and social links
 people:
+- name: Sudhir Selvaraj
+  gravatar: "http://www.gravatar.com/avatar/79527ca98cca35d78dd19e7f6d85190e"
+  position: Playwright and Production Coordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/pub/sudhir-selvaraj/34/a92/274
+    - title: instagram
+      url: https://instagram.com/sudselvaraj
+
+- name: Sanjana Govil
+  gravatar: "http://www.gravatar.com/avatar/0302229ed6eca213a4e837efc5532bd7"
+  position: Producer and Crowdfunding Manager
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/sanjana-govil-1717b535
+
 - name: Maliha Ibrahim
   gravatar: "http://www.gravatar.com/avatar/44e17af10b8b7d65e2aa493baa03e4b0"
   position: Stage and Production Coordinator
@@ -22,15 +38,6 @@ people:
       url: https://plus.google.com/u/0/112222800327559923605/
     - title: wordpress
       url: http://virtuoso89.blogspot.com/
-
-- name: Sudhir Selvaraj
-  gravatar: "http://www.gravatar.com/avatar/79527ca98cca35d78dd19e7f6d85190e"
-  position: Writer and Production Coordinator
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/pub/sudhir-selvaraj/34/a92/274
-    - title: instagram
-      url: https://instagram.com/sudselvaraj
 
 - name: Tanisha Christo
   gravatar: "http://www.gravatar.com/avatar/283dd0c8d83982d2b5592572025382a2"
